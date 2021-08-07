@@ -1,9 +1,7 @@
-# :wave: Hi there, I'm [Blake Rain](https://blakerain.com/) [@BlakeRain](https://github.com/BlakeRain)
+# :wave: Hi there, I'm [Blake Rain](https://blakerain.com/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Blake%20Rain-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/blake-rain-40580b20/)](https://www.linkedin.com/in/ashlyemavericks/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/HalfWayMan?style=social) ![GitHub followers](https://img.shields.io/github/followers/BlakeRain?style=social)
-
-I like to believe I'm a software engineer. The languages that I use in my everyday work are primarily C++ and Haskell, although I also end up writing a lot of Python and JavaScript. My current editor of choice is Visual Studio Code, but I still use Emacs on the side for those irreplaceable modes. Linux has almost always been my main operating system both personally and professionally, with some Unix thrown in for variety.
 
 ### Some technologies I work with
 
