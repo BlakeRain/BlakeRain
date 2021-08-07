@@ -14,19 +14,19 @@
 
 ### Languages and Tools
 
-[<img align="left" alt="C++" height="44px" src="media/cpp.svg" />][lang-cpp]
-[<img align="left" alt="Haskell" height="44px" src="media/haskell.svg" />][lang-hs]
-[<img align="left" alt="Python" height="44px" src="media/python.svg" />][lang-py]
-[<img align="left" alt="JavaScript" height="44px" src="media/javascript.svg" />][lang-js]
-[<img align="left" alt="HTML5" height="44px" src="media/html5.svg" />][lang-html]
-[<img align="left" alt="CSS3" height="44px" src="media/css3.svg" />][lang-css]
-[<img align="left" alt="React" height="44px" src="media/react.svg" />][lib-react]
-[<img align="left" alt="React" height="44px" src="media/nodejs.svg" />][lib-nodejs]
-[<img align="left" alt="Git" height="44px" src="media/git.svg" />][tool-git]
-[<img align="left" alt="GitHub" height="44px" src="media/Octocat.png" />][tool-github]
-[<img align="left" alt="Linux" height="44px" src="media/tux.svg" />][tool-linux]
-[<img align="left" alt="AWS" height="44px" src="media/aws.svg" />][tool-aws]
-[<img align="left" alt="Visual Studio Code" height="44px" src="media/vscode.svg" />][tool-vscode]
+[<img align="left" alt="C++" height="32px" src="media/cpp.svg" />][lang-cpp]
+[<img align="left" alt="Haskell" height="32px" src="media/haskell.svg" />][lang-hs]
+[<img align="left" alt="Python" height="32px" src="media/python.svg" />][lang-py]
+[<img align="left" alt="JavaScript" height="32px" src="media/javascript.svg" />][lang-js]
+[<img align="left" alt="HTML5" height="32px" src="media/html5.svg" />][lang-html]
+[<img align="left" alt="CSS3" height="32px" src="media/css3.svg" />][lang-css]
+[<img align="left" alt="React" height="32px" src="media/react.svg" />][lib-react]
+[<img align="left" alt="React" height="32px" src="media/nodejs.svg" />][lib-nodejs]
+[<img align="left" alt="Git" height="32px" src="media/git.svg" />][tool-git]
+[<img align="left" alt="GitHub" height="32px" src="media/Octocat.png" />][tool-github]
+[<img align="left" alt="Linux" height="32px" src="media/tux.svg" />][tool-linux]
+[<img align="left" alt="AWS" height="32px" src="media/aws.svg" />][tool-aws]
+[<img align="left" alt="Visual Studio Code" height="32px" src="media/vscode.svg" />][tool-vscode]
 
 <br />
 
@@ -37,6 +37,7 @@
 ### Latest Blog Posts
 
 <!-- BLOGPOSTS_START -->
+
 - [Moving Towards JamStack with Netlify](https://blakerain.com/blog/moving-towards-jamstack-with-netlify)
 - [Overlays with Custom Widgets in GTK](https://blakerain.com/blog/overlays-with-custom-widgets-in-gtk)
 - [Allocating Memory for DMA in Linux](https://blakerain.com/blog/allocating-memory-for-dma-in-linux)
@@ -45,6 +46,12 @@
 - [Adding Search to Ghost](https://blakerain.com/blog/adding-search-to-ghost)
 - [New Site and Blog](https://blakerain.com/blog/new-site-and-blog)
 <!-- BLOGPOSTS_END -->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeRain&theme=dark)
+![BlakeRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlakeRain&theme=dark&show_icons=true&count_private=true)
+
+<small>Thanks to <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme
+Stats</a> for these awesome panels</small>
 
 [website]: https://blakerain.com/
 [twitter]: https://twitter.com/HalfWayMan
