@@ -37,6 +37,13 @@
 ### Latest Blog Posts
 
 <!-- BLOGPOSTS_START -->
+- [Moving Towards JamStack with Netlify](https://blakerain.com/blog/moving-towards-jamstack-with-netlify)
+- [Overlays with Custom Widgets in GTK](https://blakerain.com/blog/overlays-with-custom-widgets-in-gtk)
+- [Allocating Memory for DMA in Linux](https://blakerain.com/blog/allocating-memory-for-dma-in-linux)
+- [Bitmap Tri-Color Marking](https://blakerain.com/blog/bitmap-tri-color-marking)
+- [Updated Site Search](https://blakerain.com/blog/updated-site-search)
+- [Adding Search to Ghost](https://blakerain.com/blog/adding-search-to-ghost)
+- [New Site and Blog](https://blakerain.com/blog/new-site-and-blog)
 <!-- BLOGPOSTS_END -->
 
 [website]: https://blakerain.com/
