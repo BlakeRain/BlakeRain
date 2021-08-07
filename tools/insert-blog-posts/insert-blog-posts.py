@@ -10,6 +10,7 @@ def postUrl(post):
 
 if __name__ == "__main__":
     res = requests.get("https://blakerain.com/blog/routeInfo.json").json()
+    print(f"Found {len(res['data']['posts'])} blog post(s)")
     posts_markdown = '\n'.join([postUrl(post)
                                for post in res["data"]["posts"]])
     with open("README.md", "rt") as fp:
@@ -19,5 +20,8 @@ if __name__ == "__main__":
     new_content = content[:mark_start_ix] + "\n" + \
         posts_markdown + "\n" + content[mark_end_ix:]
     if new_content != content:
+        print("Updating README.md")
         with open("README.md", "wt") as fp:
             fp.write(new_content)
+    else:
+        print("No new blog posts to add to README")
