@@ -27,6 +27,11 @@
 <br />
 <br />
 
+### Latest Blog Posts
+
+<!-- BLOGPOSTS_START -->
+<!-- BLOGPOSTS_END -->
+
 [website]: https://blakerain.com/
 [twitter]: https://twitter.com/HalfWayMan
 [linkedin]:

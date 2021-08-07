@@ -1,0 +1,20 @@
+name: Insert Blog Posts
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  insert-blog-posts:
+    name: Update the blog posts in this repository's README.md
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+      - run: |
+          pip3 install -r tools/insert-blog-posts/requirements.txt
+          python3 tools/insert-blog-posts/insert-blog-posts.py
+      - run: |
+          git add README.md
+          git commit -m "Updated README dynamic content"
+          git push
