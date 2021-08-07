@@ -15,6 +15,9 @@ jobs:
           pip3 install -r tools/insert-blog-posts/requirements.txt
           python3 tools/insert-blog-posts/insert-blog-posts.py
       - run: |
+          git remote set-url origin "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
+          git config --global user.email "$(git log --format='%ae' HEAD^!)"
+          git config --global user.name "$(git log --format='%ae' HEAD^!)"
           git add README.md
           git commit -m "Updated README dynamic content"
           git push
