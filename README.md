@@ -19,7 +19,7 @@
 [<img align="left" alt="React" height="26px" src="media/react.svg" />][lib-react]
 [<img align="left" alt="React" height="26px" src="media/nodejs.svg" />][lib-nodejs]
 [<img align="left" alt="Git" height="26px" src="media/git.svg" />][tool-git]
-[<img align="left" alt="GitHub" height="26px" src="media/github.svg" />][tool-github]
+[<img align="left" alt="GitHub" height="26px" src="media/Octocat.png" />][tool-github]
 [<img align="left" alt="Visual Studio Code" height="26px" src="media/vscode.svg" />][tool-vscode]
 
 <br />
