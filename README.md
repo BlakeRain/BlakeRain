@@ -21,6 +21,7 @@
 [<img align="left" alt="Git" height="52px" src="media/git.svg" />][tool-git]
 [<img align="left" alt="GitHub" height="52px" src="media/Octocat.png" />][tool-github]
 [<img align="left" alt="Linux" height="52px" src="media/tux.svg" />][tool-linux]
+[<img align="left" alt="AWS" height="52px" src="media/aws.svg" />][tool-aws]
 [<img align="left" alt="Visual Studio Code" height="52px" src="media/vscode.svg" />][tool-vscode]
 
 <br />
@@ -41,4 +42,5 @@
 [tool-git]: https://git-scm.com
 [tool-github]: https://github.com/
 [tool-linux]: https://www.kernel.org
+[tool-aws]: https://aws.amazon.com
 [tool-vscode]: https://code.visualstudio.com
