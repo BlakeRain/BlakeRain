@@ -10,19 +10,19 @@
 
 ### Languages and Tools
 
-[<img align="left" alt="C++" height="52px" src="media/cpp.svg" />][lang-cpp]
-[<img align="left" alt="Haskell" height="52px" src="media/haskell.svg" />][lang-hs]
-[<img align="left" alt="Python" height="52px" src="media/python.svg" />][lang-py]
-[<img align="left" alt="JavaScript" height="52px" src="media/javascript.svg" />][lang-js]
-[<img align="left" alt="HTML5" height="52px" src="media/html5.svg" />][lang-html]
-[<img align="left" alt="CSS3" height="52px" src="media/css3.svg" />][lang-css]
-[<img align="left" alt="React" height="52px" src="media/react.svg" />][lib-react]
-[<img align="left" alt="React" height="52px" src="media/nodejs.svg" />][lib-nodejs]
-[<img align="left" alt="Git" height="52px" src="media/git.svg" />][tool-git]
-[<img align="left" alt="GitHub" height="52px" src="media/Octocat.png" />][tool-github]
-[<img align="left" alt="Linux" height="52px" src="media/tux.svg" />][tool-linux]
-[<img align="left" alt="AWS" height="52px" src="media/aws.svg" />][tool-aws]
-[<img align="left" alt="Visual Studio Code" height="52px" src="media/vscode.svg" />][tool-vscode]
+[<img align="left" alt="C++" height="44px" src="media/cpp.svg" />][lang-cpp]
+[<img align="left" alt="Haskell" height="44px" src="media/haskell.svg" />][lang-hs]
+[<img align="left" alt="Python" height="44px" src="media/python.svg" />][lang-py]
+[<img align="left" alt="JavaScript" height="44px" src="media/javascript.svg" />][lang-js]
+[<img align="left" alt="HTML5" height="44px" src="media/html5.svg" />][lang-html]
+[<img align="left" alt="CSS3" height="44px" src="media/css3.svg" />][lang-css]
+[<img align="left" alt="React" height="44px" src="media/react.svg" />][lib-react]
+[<img align="left" alt="React" height="44px" src="media/nodejs.svg" />][lib-nodejs]
+[<img align="left" alt="Git" height="44px" src="media/git.svg" />][tool-git]
+[<img align="left" alt="GitHub" height="44px" src="media/Octocat.png" />][tool-github]
+[<img align="left" alt="Linux" height="44px" src="media/tux.svg" />][tool-linux]
+[<img align="left" alt="AWS" height="44px" src="media/aws.svg" />][tool-aws]
+[<img align="left" alt="Visual Studio Code" height="44px" src="media/vscode.svg" />][tool-vscode]
 
 <br />
 <br />
