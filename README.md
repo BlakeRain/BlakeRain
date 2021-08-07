@@ -50,8 +50,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeRain&theme=dark)
 ![BlakeRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlakeRain&theme=dark&show_icons=true&count_private=true)
 
-<small>Thanks to <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme
-Stats</a> for these awesome panels</small>
+<p align="center">
+  Thanks to <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> for these awesome panels :heart:
+</p>
 
 [website]: https://blakerain.com/
 [twitter]: https://twitter.com/HalfWayMan
