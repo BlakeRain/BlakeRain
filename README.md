@@ -1,42 +1,28 @@
-### Hi there, I'm [Blake Rain][website] 👋
+# :wave: Hi there, I'm [Blake Rain](https://blakerain.com/) [@BlakeRain](https://github.com/BlakeRain)
 
-### Social Media
+[![Linkedin Badge](https://img.shields.io/badge/-Blake%20Rain-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/blake-rain-40580b20/)](https://www.linkedin.com/in/ashlyemavericks/)
+![Twitter Follow](https://img.shields.io/twitter/follow/HalfWayMan?style=social) ![GitHub followers](https://img.shields.io/github/followers/BlakeRain?style=social)
 
-[<img align="left" alt="blakerain.com" height="44px" src="media/blakerain.png" />][website]
-[<img align="left" alt="@HalfWayMan" height="44px" src="media/twitter.svg" />][twitter]
-[<img align="left" alt="@HalfWayMan" height="44px" src="media/linkedin.svg" />][linkedin]
+I like to believe I'm a software engineer. The languages that I use in my everyday work are primarily C++ and Haskell, although I also end up writing a lot of Python and JavaScript. My current editor of choice is Visual Studio Code, but I still use Emacs on the side for those irreplaceable modes. Linux has almost always been my main operating system both personally and professionally, with some Unix thrown in for variety.
 
-<br />
+### Some technologies I work with
 
-<br />
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Haskell](https://img.shields.io/badge/Haskell-%235D4F85.svg?style=for-the-badge&logo=Haskell&logoColor=white) | ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| --- | --- | --- | --- | --- | --- |
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) | ![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
 
-<br />
+### Fun GitHub stats
 
-### Languages and Tools
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeRain&theme=dark)
+![BlakeRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlakeRain&theme=dark&show_icons=true&count_private=true)
 
-[<img align="left" alt="C++" height="32px" src="media/cpp.svg" />][lang-cpp]
-[<img align="left" alt="Haskell" height="32px" src="media/haskell.svg" />][lang-hs]
-[<img align="left" alt="Python" height="32px" src="media/python.svg" />][lang-py]
-[<img align="left" alt="JavaScript" height="32px" src="media/javascript.svg" />][lang-js]
-[<img align="left" alt="HTML5" height="32px" src="media/html5.svg" />][lang-html]
-[<img align="left" alt="CSS3" height="32px" src="media/css3.svg" />][lang-css]
-[<img align="left" alt="React" height="32px" src="media/react.svg" />][lib-react]
-[<img align="left" alt="React" height="32px" src="media/nodejs.svg" />][lib-nodejs]
-[<img align="left" alt="Git" height="32px" src="media/git.svg" />][tool-git]
-[<img align="left" alt="GitHub" height="32px" src="media/Octocat.png" />][tool-github]
-[<img align="left" alt="Linux" height="32px" src="media/tux.svg" />][tool-linux]
-[<img align="left" alt="AWS" height="32px" src="media/aws.svg" />][tool-aws]
-[<img align="left" alt="Visual Studio Code" height="32px" src="media/vscode.svg" />][tool-vscode]
+Thanks to [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for these awesome panels :heart:
 
-<br />
-
-<br />
-
-<br />
-
-### Latest Blog Posts
+### Latest blog posts
 
 <!-- BLOGPOSTS_START -->
+
 - [Moving Towards JamStack with Netlify](https://blakerain.com/blog/moving-towards-jamstack-with-netlify)
 - [Overlays with Custom Widgets in GTK](https://blakerain.com/blog/overlays-with-custom-widgets-in-gtk)
 - [Allocating Memory for DMA in Linux](https://blakerain.com/blog/allocating-memory-for-dma-in-linux)
@@ -46,17 +32,11 @@
 - [New Site and Blog](https://blakerain.com/blog/new-site-and-blog)
 <!-- BLOGPOSTS_END -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeRain&theme=dark)
-![BlakeRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlakeRain&theme=dark&show_icons=true&count_private=true)
-
-<p align="center">
-  Thanks to <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> for these awesome panels :heart:
-</p>
 
 [website]: https://blakerain.com/
 [twitter]: https://twitter.com/HalfWayMan
 [linkedin]:
-  https://www.linkedin.com/in/blake-rain-40580b20?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQGKukDZDTVCtvramYiEA0Q%3D%3D
+  ?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQGKukDZDTVCtvramYiEA0Q%3D%3D
 [lang-cpp]: https://en.wikipedia.org/wiki/C%2B%2B
 [lang-hs]: https://www.haskell.org
 [lang-py]: https://www.python.org
