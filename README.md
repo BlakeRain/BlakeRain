@@ -37,7 +37,6 @@
 ### Latest Blog Posts
 
 <!-- BLOGPOSTS_START -->
-
 - [Moving Towards JamStack with Netlify](https://blakerain.com/blog/moving-towards-jamstack-with-netlify)
 - [Overlays with Custom Widgets in GTK](https://blakerain.com/blog/overlays-with-custom-widgets-in-gtk)
 - [Allocating Memory for DMA in Linux](https://blakerain.com/blog/allocating-memory-for-dma-in-linux)
