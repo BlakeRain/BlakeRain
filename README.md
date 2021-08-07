@@ -2,25 +2,25 @@
 
 ### Social Media
 
-[<img align="left" alt="blakerain.com" height="22px" src="media/blakerain.png" />][website]
-[<img align="left" alt="@HalfWayMan" height="22px" src="media/twitter.svg" />][twitter]
-[<img align="left" alt="@HalfWayMan" height="22px" src="media/linkedin.svg" />][linkedin]
+[<img align="left" alt="blakerain.com" height="44px" src="media/blakerain.png" />][website]
+[<img align="left" alt="@HalfWayMan" height="44px" src="media/twitter.svg" />][twitter]
+[<img align="left" alt="@HalfWayMan" height="44px" src="media/linkedin.svg" />][linkedin]
 
 <br />
 
 ### Languages and Tools
 
-[<img align="left" alt="C++" height="26px" src="media/cpp.svg" />][lang-cpp]
-[<img align="left" alt="Haskell" height="26px" src="media/haskell.svg" />][lang-hs]
-[<img align="left" alt="Python" height="26px" src="media/python.svg" />][lang-py]
-[<img align="left" alt="JavaScript" height="26px" src="media/javascript.svg" />][lang-js]
-[<img align="left" alt="HTML5" height="26px" src="media/html5.svg" />][lang-html]
-[<img align="left" alt="CSS3" height="26px" src="media/css3.svg" />][lang-css]
-[<img align="left" alt="React" height="26px" src="media/react.svg" />][lib-react]
-[<img align="left" alt="React" height="26px" src="media/nodejs.svg" />][lib-nodejs]
-[<img align="left" alt="Git" height="26px" src="media/git.svg" />][tool-git]
-[<img align="left" alt="GitHub" height="26px" src="media/Octocat.png" />][tool-github]
-[<img align="left" alt="Visual Studio Code" height="26px" src="media/vscode.svg" />][tool-vscode]
+[<img align="left" alt="C++" height="52px" src="media/cpp.svg" />][lang-cpp]
+[<img align="left" alt="Haskell" height="52px" src="media/haskell.svg" />][lang-hs]
+[<img align="left" alt="Python" height="52px" src="media/python.svg" />][lang-py]
+[<img align="left" alt="JavaScript" height="52px" src="media/javascript.svg" />][lang-js]
+[<img align="left" alt="HTML5" height="52px" src="media/html5.svg" />][lang-html]
+[<img align="left" alt="CSS3" height="52px" src="media/css3.svg" />][lang-css]
+[<img align="left" alt="React" height="52px" src="media/react.svg" />][lib-react]
+[<img align="left" alt="React" height="52px" src="media/nodejs.svg" />][lib-nodejs]
+[<img align="left" alt="Git" height="52px" src="media/git.svg" />][tool-git]
+[<img align="left" alt="GitHub" height="52px" src="media/Octocat.png" />][tool-github]
+[<img align="left" alt="Visual Studio Code" height="52px" src="media/vscode.svg" />][tool-vscode]
 
 <br />
 <br />
