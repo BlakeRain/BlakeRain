@@ -20,6 +20,7 @@
 [<img align="left" alt="React" height="52px" src="media/nodejs.svg" />][lib-nodejs]
 [<img align="left" alt="Git" height="52px" src="media/git.svg" />][tool-git]
 [<img align="left" alt="GitHub" height="52px" src="media/Octocat.png" />][tool-github]
+[<img align="left" alt="Linux" height="52px" src="media/tux.svg" />][tool-linux]
 [<img align="left" alt="Visual Studio Code" height="52px" src="media/vscode.svg" />][tool-vscode]
 
 <br />
@@ -39,4 +40,5 @@
 [lib-nodejs]: https://nodejs.org/
 [tool-git]: https://git-scm.com
 [tool-github]: https://github.com/
+[tool-linux]: https://www.kernel.org
 [tool-vscode]: https://code.visualstudio.com
