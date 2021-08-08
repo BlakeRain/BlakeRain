@@ -19,5 +19,10 @@ jobs:
           git config --global user.email "$(git log --format='%ae' HEAD^!)"
           git config --global user.name "$(git log --format='%ae' HEAD^!)"
           git add README.md
-          git commit -m "Updated README dynamic content"
-          git push
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Clean; nothing to commit"
+          else
+            git status
+            git commit -m "Updated README dynamic content"
+            git push origin main
+          fi
