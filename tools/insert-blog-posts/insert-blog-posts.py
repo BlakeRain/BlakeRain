@@ -18,7 +18,7 @@ if __name__ == "__main__":
     posts = obj["props"]["pageProps"]["posts"]
     print(f"Found {len(posts)} blog post(s)")
     posts_markdown = '\n'.join([postUrl(post)
-                               for post in res["data"]["posts"]])
+                               for post in posts])
     with open("README.md", "rt") as fp:
         content = fp.read()
     mark_start_ix = content.index(MARK_START) + len(MARK_START)
