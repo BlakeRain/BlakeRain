@@ -13,8 +13,8 @@
 
 ### Fun GitHub stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeRain&theme=dark)
-![BlakeRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlakeRain&theme=dark&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats-gamma-one-16.vercel.app/api/top-langs/?username=BlakeRain&theme=dark)
+![BlakeRain's GitHub stats](https://github-readme-stats-gamma-one-16.vercel.app/api?username=BlakeRain&theme=dark&show_icons=true&count_private=true)
 
 Thanks to [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for these
 awesome panels :heart:
