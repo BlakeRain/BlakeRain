@@ -1,6 +1,5 @@
 # :wave: Hi there, I'm [Blake Rain](https://blakerain.com/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Blake%20Rain-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/blake-rain-40580b20/)](https://www.linkedin.com/in/ashlyemavericks/)
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/109312743256581419?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/BlakeRain?style=social)
 
